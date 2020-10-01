@@ -7,6 +7,7 @@ body {
 }
 
 .introduction {
+  width: 100vw;
   margin-top: 150px;
 }
 
@@ -20,6 +21,7 @@ h1 {
   font-size: 42px;
   font-family: 'Unica One', cursive;
   text-align: center;
+  margin: 40px 0;
 }
 
 h2 {
@@ -37,6 +39,7 @@ li + li {
 }
 
 blockquote {
+  margin: 40px 0 0 0;
   text-align: center;
   font-size: 42px;
   font-family: 'Unica One', cursive;
@@ -65,11 +68,11 @@ a {
 
 @media (max-width: 600px) {
   .introduction {
-    padding-left: 40vw;
+    padding-left: 0vw;
   }
 
   .content-wrapper {
-    width: 400px;
+    width: 300px;
   }
 
   .content-wrapper p {
@@ -77,11 +80,12 @@ a {
   }
 
   .image-wrapper img{
-    width: 400px;
+    width: 100%;
+    margin: 40px 0;
   }
 
   main {
-    width: 140%;
+    /* width: 140%; */
   }
 
   ul, li {
