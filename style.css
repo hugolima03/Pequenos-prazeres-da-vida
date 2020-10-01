@@ -63,6 +63,32 @@ a {
 
 /* Responsividade */
 
+@media (max-width: 600px) {
+  .introduction {
+    padding-left: 40vw;
+  }
+
+  .content-wrapper {
+    width: 400px;
+  }
+
+  .content-wrapper p {
+    font-size: 22px;
+  }
+
+  .image-wrapper img{
+    width: 400px;
+  }
+
+  main {
+    width: 140%;
+  }
+
+  ul, li {
+    font-size: 20px;
+  }
+}
+
 /* Cores */
 
 .purple {
