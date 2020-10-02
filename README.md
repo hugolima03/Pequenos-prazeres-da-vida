@@ -14,7 +14,7 @@ projeto forkado pelo pelo Hugo que foi forkado pelo Guilherme que por fim provav
 Para mais coisas interessantes e talvez úteis, consulte os githubs do: 
 - [HUGO](https://github.com/hugolima03)
 - [GUILHERME](https://github.com/GuilhermeBn198)
-- [KELVIN]()
+- [KELVIN](https://github.com/dilli37)
 
 
 ## Histórico de lançamentos
@@ -39,8 +39,9 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 1. primeiro você tem de ter um [github](https://github.com/) 😳 
 2. depois faça **fork** deste [projeto](https://github.com/hugolima03/Pequenos-prazeres-da-vida) 🤠🤠
 3. **clone-o** 🤫
-4. faça suas _**mudanças**_ e dê _**commit**_ 🧐🤓😎
-5. finalize dando **commit** e criando um novo **pull request**... por aguarde ser aceito pelo dono do projeto 🥳🥳
+4. crie uma **branch**
+5. faça suas _**mudanças**_ e dê _**commit**_ 🧐🤓😎
+6. finalize dando **commit** e criando um novo **pull request**... por aguarde ser aceito pelo dono do projeto 🥳🥳
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
